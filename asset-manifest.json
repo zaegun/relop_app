@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zaegun/relop_app/static/css/main.46a0117d.css",
+    "main.js": "/zaegun/relop_app/static/js/main.a88253d2.js",
+    "static/js/787.976be259.chunk.js": "/zaegun/relop_app/static/js/787.976be259.chunk.js",
+    "static/media/logo.svg": "/zaegun/relop_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/zaegun/relop_app/index.html",
+    "main.46a0117d.css.map": "/zaegun/relop_app/static/css/main.46a0117d.css.map",
+    "main.a88253d2.js.map": "/zaegun/relop_app/static/js/main.a88253d2.js.map",
+    "787.976be259.chunk.js.map": "/zaegun/relop_app/static/js/787.976be259.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46a0117d.css",
+    "static/js/main.a88253d2.js"
+  ]
+}
